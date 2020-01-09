@@ -1,0 +1,3 @@
+[submodule "samples/fullstack-tutorial"]
+	path = samples/fullstack-tutorial
+	url = https://github.com/apollographql/fullstack-tutorial.git
