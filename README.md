@@ -2,7 +2,7 @@
 
 All things web development for 2020.
 
-## Apollo GraphQL examples
+## GraphQL
 
-samples/fullstack-tutorial
+GraphQL web samples and related information.
 
